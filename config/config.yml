@@ -1,0 +1,7 @@
+data_path:
+  train_data: ../data/train/spam.csv
+nlp_path:
+  model_path: ../cache/nlp_model.pkl
+transform_path:
+  transform_model_path: ../cache/transform.pkl
+sentence_num: 3
